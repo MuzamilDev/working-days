@@ -5,7 +5,7 @@ using namespace std;
 class Selection{
     private:
     int n,i,j,temp;
-    int arr[7];
+    int arr[];
     public:
 
     void getData()
@@ -40,7 +40,7 @@ class Selection{
     {
     for(i=0; i<n; i++)
     {
-        cout<<"I have sorted in this way, The last bigger day would be probably hard working "<<arr[i]<<endl;
+        cout<<"I have sorted in this way "<<arr[i]<<endl;
 
     }
 }
