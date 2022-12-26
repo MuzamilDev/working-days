@@ -40,7 +40,8 @@ class Selection{
     {
     for(i=0; i<n; i++)
     {
-        cout<<"I have sorted in this way "<<arr[i]<<endl;
+        cout<<"The Number of Day is bigger the hard working it is";
+        cout<<arr[i]<<endl;
 
     }
 }
